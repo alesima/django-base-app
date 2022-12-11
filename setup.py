@@ -9,7 +9,7 @@ def read(fpath):
 
 
 setup(
-    name='django-authentication-app',
+    name='django-base-app',
     version='0.1',
     packages=find_packages(),
     include_package_data=True,
