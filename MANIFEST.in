@@ -1,4 +1,4 @@
 include LICENSE
 include README.md
-include *.py
-include *.html
+recursive-include django_base_app/static *
+recursive-include django_base_app/templates *
